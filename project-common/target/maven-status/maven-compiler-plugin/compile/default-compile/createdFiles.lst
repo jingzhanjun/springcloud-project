@@ -1,0 +1,6 @@
+com\example\common\CommonApplication.class
+com\example\common\domain\Product.class
+com\blue\user\utils\JsonUtils.class
+com\example\common\configuration\FeignConfiguration.class
+com\example\common\domain\ResultMap.class
+com\example\common\domain\User.class
